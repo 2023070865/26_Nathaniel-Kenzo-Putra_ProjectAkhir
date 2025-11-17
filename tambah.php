@@ -145,7 +145,7 @@ input[type="submit"]:hover {
     
     <div class="container-wrapper">
         <div class="container">
-            <h3>TAMBAH DATA MAHASISWA</h3>
+            <h3>TAMBAH DATA DIRI</h3>
             
             <fieldset>
                 <legend>Pengisian Form</legend>
@@ -236,4 +236,5 @@ input[type="submit"]:hover {
         </div>
     </footer>
 </body>
+
 </html>

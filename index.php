@@ -107,7 +107,7 @@ table td a[href*="hapus.php"]:hover {
     
     <div class="content-container">
 
-        <a href="tambah.php" class="tambah-siswa-btn">➕ TAMBAH SISWA</a>
+        <a href="tambah.php" class="tambah-siswa-btn">➕ TAMBAH DATA</a>
         
         <br/>
 
@@ -194,4 +194,5 @@ table td a[href*="hapus.php"]:hover {
         </div>
     </footer>
 </body>
+
 </html>
